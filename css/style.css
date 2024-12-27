@@ -950,7 +950,7 @@ body.offcanvas {
       padding: 20px;
       display: block;
       position: relative;
-      height: 300px; }
+      min-height: 300px; }
       .project .desc .con .icon {
         position: absolute;
         bottom: 20px;
@@ -1004,7 +1004,7 @@ body.offcanvas {
     @media screen and (max-width: 768px) {
       .project .desc {
         opacity: 1;
-        background: rgba(0, 0, 0, 0.4); }
+        background: rgba(44, 152, 240, 0.9); }
         .project .desc h3 {
           font-style: 28px;
           -webkit-transform: translate3d(0, 0, 0);
@@ -1042,7 +1042,7 @@ body.offcanvas {
     top: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 0, 0, 0.4); }
+    background: rgba(44, 152, 240, 0.9); }
   .colorlib-counters .icon {
     width: 100px;
     height: 100px;
